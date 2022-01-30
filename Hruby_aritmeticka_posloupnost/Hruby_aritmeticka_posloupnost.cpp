@@ -2,7 +2,7 @@
 
 int main(void) {
 
-	int dif = 0, pred = 0;
+	int dif, pred;
 
 	printf("hodnota prvniho clenu: ");
 	scanf("%d", &pred);
